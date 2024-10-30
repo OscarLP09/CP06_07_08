@@ -23,6 +23,8 @@
         <activity
             android:name=".EditarPeliculaActivity">
         </activity>
+        <activity android:name=".DetallePeliculaActivity" />
+
     </application>
 
 </manifest>
