@@ -34,5 +34,3 @@ class EditarPeliculaActivity : AppCompatActivity() {
         }
     }
 }
-
-

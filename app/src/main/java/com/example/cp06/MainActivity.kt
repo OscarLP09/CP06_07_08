@@ -67,6 +67,7 @@ class MainActivity : AppCompatActivity() {
         return true
     }
 
+
     // Filtrar películas en tiempo real
     private fun filtrarPeliculas(query: String) {
         peliculasFiltradas.clear() // Limpiar la lista filtrada

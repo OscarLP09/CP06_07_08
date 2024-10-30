@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">CP06</string>
     <string name="pelicula_image_desc">\@string/pelicula_image_desc</string>
+    <string name="movie_poster">\@string/movie_poster</string>
 </resources>
